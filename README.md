@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Riyabhadangee/Riyabhadangee/main/banner.png" width="100%">
+</p>
+
 # Hi 👋, I'm Riya Bhadange
 
 ### AI & Data Science Student | Full Stack Developer | ML Enthusiast
