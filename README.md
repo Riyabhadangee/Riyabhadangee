@@ -2,9 +2,9 @@
   <img src="https://raw.githubusercontent.com/Riyabhadangee/Riyabhadangee/main/BANNER.png" width="100%">
 </p>
 
-# Hi 👋, I'm Riya Bhadange
+<h1 align="center">Hi 👋, I'm Riya Bhadange</h1>
 
-### AI & Data Science Student | Full Stack Developer | ML Enthusiast
+<h3 align="center">AI & Data Science Student | Full Stack Developer | ML Enthusiast</h3>
 
 * 🎓 B.E. in Artificial Intelligence & Data Science
 * 💻 Passionate about Full Stack Development and Machine Learning
