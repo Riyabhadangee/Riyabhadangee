@@ -8,24 +8,54 @@
 
 * 🎓 B.E. in Artificial Intelligence & Data Science
 * 💻 Passionate about Full Stack Development and Machine Learning
-* 🌱 Currently learning Deep Learning and System Design
+* 🌱 Currently learning Machine Learning and System Design
 * 🚀 Building AI-powered and Web-based applications
-* 📫 Reach me: [your-email@example.com](mailto:your-email@example.com)
+* 📫 Reach me: riyabhadange06@gmail.com
 
 ### Featured Projects
 
 * 🔹 Employee Attrition Prediction
 * 🔹 Deep Learning Image Recognition with VGG16
-* 🔹 Movie Recommendation System
+* 🔹 AI Trip Planner
 * 🔹 Library Management System
 
-### Tech Stack
+## 🛠️ Tech Stack
 
-Java • Python • JavaScript • React • Spring Boot • MySQL • TensorFlow • Git • GitHub
+## 💻 Languages
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html" />
 
-### Connect With Me
+## 🌐 Web Development & Tools
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,spring,django,flask,mysql,mongodb,git,github,aws,gcp,figma,arduino" />
 
-LinkedIn | GitHub | Portfolio
+## 🤖 AI / ML
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv" />
+
+## 📊 Data Science
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,scipy,matplotlib,plotly,jupyter" />
+
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/riya-bhadange/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/riya.bhadange09/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/Riyabhadangee">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://riya-bhadange-portfolio-2jxx.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+
+
+
 
 
 <!--
