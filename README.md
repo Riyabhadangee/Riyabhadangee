@@ -15,7 +15,7 @@
 ### Featured Projects
 
 * 🔹 Employee Attrition Prediction
-* 🔹 Deep Learning Image Recognition with VGG16
+* 🔹 Fraud Detection System
 * 🔹 AI Trip Planner
 * 🔹 Library Management System
 
