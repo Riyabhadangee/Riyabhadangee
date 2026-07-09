@@ -17,7 +17,7 @@
 * 🔹 Employee Attrition Prediction
 * 🔹 Fraud Detection System
 * 🔹 AI Trip Planner
-* 🔹 Concurrent Task Engine Main
+* 🔹 Concurrent Task Engine 
 
 ## 🛠️ Tech Stack
 
