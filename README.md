@@ -10,7 +10,7 @@
 * 💻 Passionate about Full Stack Development and Machine Learning
 * 🌱 Currently learning Machine Learning and System Design
 * 🚀 Building AI-powered and Web-based applications
-* 📫 Reach me: riyabhadange06@gmail.com
+* 📫 Reach me: **<a href="mailto:riyabhadange06@gmail.com">riyabhadange06@gmail.com</a>**
 
 ### Featured Projects
 
